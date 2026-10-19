@@ -1,0 +1,97 @@
+# ==========================================
+# Entornos de desarrollo / IDEs y Editores
+# ==========================================
+# VS Code
+.vscode/
+*.code-workspace
+
+# Antigravity / Gemini IDE
+.gemini/
+.agents/
+
+# JetBrains (PyCharm, CLion, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Otros editores
+*.sublime-project
+*.sublime-workspace
+
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribución y empaquetado
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+
+# ==========================================
+# C / C++ (Compiladores y binarios)
+# ==========================================
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+*.app
+*.dSYM/
+
+
+# ==========================================
+# Sistema Operativo
+# ==========================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+
+# ==========================================
+# Archivos temporales y de registro (Logs)
+# ==========================================
+*.log
+*.tmp
+*.temp
