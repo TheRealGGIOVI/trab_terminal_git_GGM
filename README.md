@@ -1,21 +1,10 @@
-# 📚 Prácticas de Algoritmos y Estructura de Datos
+# Mi laboratorio de Terminal y Git
 
-Repositorio con las sesiones de prácticas y laboratorios de la asignatura **Algoritmos y Estructura de Datos**.
+Autor: GGM
 
----
+MatIA: recuento de pinzas con datos sinteticos.
+Ejecucion: python src/recuento_matIA.py
+IA: No se ha utilizado asistencia de inteligencia artificial en el desarrollo del codigo.
 
-## 📝 Descripción
-
-Este repositorio recoge el trabajo realizado a lo largo de las sesiones prácticas de la asignatura. Cada sesión aborda distintos conceptos y algoritmos vistos en clase, con el objetivo de afianzar los conocimientos teóricos mediante la práctica.
-
----
-
-## 👤 Autor
-
-**GGM** — Estudiante de la asignatura Algoritmos y Estructura de Datos
-
----
-
-## 📄 Licencia
-
-Repositorio de uso académico personal.
+## Comprobacion
+He probado los casos coincide, faltan y sobran pinzas.

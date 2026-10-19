@@ -1,0 +1,3 @@
+Pinzas esperadas: 2
+Pinzas observadas: 2
+Resultado: coincide
